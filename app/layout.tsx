@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "XAUUSD Command — Gold Trading Terminal",
-  description: "Personalized XAU/USD Intraday Trading Dashboard | 7-10 AM CT Session",
+  title: "XAU/USD Terminal — Gold Command",
+  description: "Professional 24/7 XAU/USD Trading Dashboard",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
